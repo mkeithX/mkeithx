@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello, world! 🌍
 
+![mkeithx](./octokeithx/banner_mkeithx.png)
 <!--
 **mkeithX/mkeithx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Keith, a software engineer and I develop mostly web applications. I like enjoy, physics and I co-founded [Kitiplex](https://kitiplex.vercel.app/).
