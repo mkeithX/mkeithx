@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Keith, a software engineer and I develop mostly web applications. I enjoy pizza, physics and I co-founded [Kitiplex](https://kitiplex.vercel.app/).
+
+I'm Keith, a software engineer and I develop mostly web applications. My coding journey intertwines with a love for pizza, a fascination with physics, and my role as a co-founder at [Kitiplex](https://kitiplex.vercel.app/). 
