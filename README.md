@@ -3,9 +3,6 @@
 
 
 Hi,
-=======
-Hello, world!🌍 I'm Keith, primarily focused on crafting web applications. My coding journey intertwines with a love for pizza, a fascination with physics, and my role as a co-founder at [Kitiplex](https://kitiplex.github.io/). 
-
 
 I'm Keith, an independent web developer and IT analyst. Please visit my [website](https://mkeithx.github.io/) and to know more about what I do.
 
