@@ -4,7 +4,7 @@
 
 Hi,
 
-I'm Keith, an independent web developer and IT analyst. Please visit my [website](https://mkeithx.github.io/) and to know more about what I do.
+I'm Keith, an independent web developer and IT analyst. Please visit my [website](https://mkeithx.github.io/) and get to know more about what I do.
 
 <hr>
 
