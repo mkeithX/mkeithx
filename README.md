@@ -1,10 +1,9 @@
-<p align="center"><img align="center" width="300" height="75" src="https://imgur.com/N5Y1jNi.png"/></p>
+<p align="center"><img align="center" width="375" height="70" src="https://imgur.com/N5Y1jNi.png"/></p>
 
-
-
-Hi,
-
-I'm Keith, an independent web developer and IT analyst. Please visit my [website](https://mkeithx.github.io/) and get to know more about what I do.
+<h3 align="center">
+Building websites and fixing tech stuff. More
+    <a href="https://mkeithx.github.io/me"> about me</a>.
+</h3>
 
 <hr>
 
