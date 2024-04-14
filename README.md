@@ -1,8 +1,7 @@
 <p align="center"><img align="center" width="375" height="70" src="https://imgur.com/N5Y1jNi.png"/></p>
 
 <h3 align="center">
-Building websites and fixing tech stuff. More
-    <a href="https://mkeithx.github.io/me"> about me</a>.
+Building the web before bedtime. 
 </h3>
 
 <hr>
